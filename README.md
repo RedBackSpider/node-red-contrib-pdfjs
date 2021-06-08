@@ -1,3 +1,5 @@
+*Note: Not in active development, feel free to clone as necessary*
+
 A node to help extract text contents from a pdf. Uses the Mozilla library found at [https://github.com/mozilla/pdfjs-dist](https://github.com/mozilla/pdfjs-dist) to extract text data.
 
 ## Inputs
